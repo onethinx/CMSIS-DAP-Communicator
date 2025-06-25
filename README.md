@@ -56,7 +56,7 @@ A compact UART `printf()` implementation is included as a drop-in. No extra depe
 
 ## 📄 License
 
-MIT License  
+[MIT License](https://github.com/onethinx/OTX-CMSIS-DAP-Communicator/blob/main/LICENSE)
 
 ---
 
