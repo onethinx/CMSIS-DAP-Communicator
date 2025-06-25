@@ -1,4 +1,4 @@
-# 📡 OTX-CMSIS-DAP-Communicator 📡
+# 📡 CMSIS-DAP-Communicator 📡
 Communicate through CMSIS-DAP with the PSoC6 / Onethinx OTX-18 Core module 
 
 Firmware and Software for the **Onethinx Core OTX-18** module — an ultra-compact, production-ready LoRaWAN® module powered by PSoC6.
