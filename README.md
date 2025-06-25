@@ -39,6 +39,8 @@ A .NET 8 desktop app is included to communicate with the module via **CMSIS-DAP 
 
 ### PC Utility
 
+![CMSIS-DAP Communicator](https://github.com/onethinx/Readme_assets/blob/main/CMSIS-DAP-Communicator.png?raw=true)
+
 1. Open `CmsisDap_Communicator.sln` in **Visual Studio 2022+**
 2. Build and run.
 3. Connect to the OTX-18 module and start interacting!
