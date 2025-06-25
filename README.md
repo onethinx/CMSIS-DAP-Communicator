@@ -1,4 +1,4 @@
-# OTX-CMSIS-DAP-Communicator
+# 📡 OTX-CMSIS-DAP-Communicator 📡
 Communicate through CMSIS-DAP with the PSoC6 / Onethinx OTX-18 Core module 
 
 Firmware and Software for the **Onethinx Core OTX-18** module — an ultra-compact, production-ready LoRaWAN® module powered by PSoC6.
@@ -20,6 +20,8 @@ This firmware demonstrates memory communication, configuration provisioning, and
 
 ## 💻 PC-Side Communication Utility
 
+![CMSIS-DAP Communicator](https://github.com/onethinx/Readme_assets/blob/main/CMSIS-DAP-Communicator.png?raw=true)
+
 A .NET 8 desktop app is included to communicate with the module via **CMSIS-DAP over USB HID**. It allows you to:
 
 - View and edit LoRaWAN keys
@@ -33,13 +35,12 @@ A .NET 8 desktop app is included to communicate with the module via **CMSIS-DAP 
 
 ### Firmware
 
-1. Open the project in **Visual Studio Code** (check https://github.com/onethinx/OTX18-Project-Examples for more information)
+1. Open the project in **Visual Studio Code** (check [OTX18-Project-Examples](https://github.com/onethinx/OTX18-Project-Examples) for more information)
 2. Connect a CMSIS-DAP compatible programmer.
 3. Build and flash the firmware.
 
 ### PC Utility
 
-![CMSIS-DAP Communicator](https://github.com/onethinx/Readme_assets/blob/main/CMSIS-DAP-Communicator.png?raw=true)
 
 1. Open `CmsisDap_Communicator.sln` in **Visual Studio 2022+**
 2. Build and run.
@@ -59,6 +60,6 @@ MIT License
 
 ---
 
-## 🧠 More Info
+## More Info
 
-Visit [onethinx.com](https://onethinx.com) or contact us at [info@onethinx.com](mailto:info@onethinx.com)
+🚀 Visit [onethinx.com](https://onethinx.com) or contact us at [info@onethinx.com](mailto:info@onethinx.com) 🚀
