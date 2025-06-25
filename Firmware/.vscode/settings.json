@@ -1,0 +1,12 @@
+{
+  "cortex-gdb.armToolchainPath": "${env:ONETHINX_PACK_LOC}/gcc-arm/bin",
+  "memory-view.trackDebuggers": ["cortex-gdb"],
+  "debug.showInStatusBar": "never",
+  "otx-maestro.programmer": "cmsis-dap",
+  "files.associations": {
+    "stdio.h": "c",
+    "onethinxcore01.h": "c",
+    "lorawan_keys.h": "c",
+    "communicator.h": "c"
+  }
+}
